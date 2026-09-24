@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Personal / health reports
+reports/
+health_reports/
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Temporary files
+*.tmp
+*.log
